@@ -134,7 +134,7 @@ Any number is speculative at this point, but we believe it will be in the $50/$7
 **Will My Taxes Go Up?**
 While we cannot at this time specify exact numbers, the expectation is that it will go up by less than $300 per household per year or $25/month, as a result of issuing a bond similar to the one Leverett did.
 
-If all homes are connected (as opposed to "fiber to the curb") then property tax rates should be unaffected.  The value of your home, if you sell it, goes up.  But the value of your home relative to your neighbors' homes does not change (theirs goes up by the same percentage), and the difference between valuations is what drives property tax rates.
+If all homes are connected (as opposed to "fiber to the curb") then property tax rates should be unaffected.  The value of your home, if you sell it, goes up.  But the value of your home *relative to the value of your neighbors' homes* does not change (theirs go up by the same percentage), and the difference between valuations is what drives changes in property tax amounts for individual properties.
 
 **Who Will Pay For Building The Network?**
 There are a variety of grants and sources of grants available - most notably, the $50,000,000 in the recent IT bond bill.  That money is currently *authorized* for MBI - meaning MBI will be issuing grants to individual towns' MLPs or entities such as WiredWest.  The money is not yet *appropriated* - meaning that MBI does not actually have it yet - it's still working its way through the system to them.
