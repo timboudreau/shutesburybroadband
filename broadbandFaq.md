@@ -35,6 +35,7 @@ Broadband internet creates opportunities for people in Shutesbury that do not cu
  - Allows Shutesbury residents to start internet-based businesses
  - Connects Shutesbury residents to the rest of the world in a way they are not now
  - Increases the value of our homes - many home buyers will not consider a property that does not have broadband
+ - Makes quality-of-life enhancing services such as [Telehelp](http://www.ncbi.nlm.nih.gov/pubmed/7694919) available to citizens of Shutesbury
 
 
 ### The Situation Today
@@ -77,7 +78,13 @@ Shutesbury is a member of the cooperative WiredWest, a non-profit coalition of "
 
 **Will Anybody Be Left Out** - This will be partly funded from tax dollars, and it is only fair that if your taxes help to pay for it, that you should benefit from it.  Nobody will be left out.
 
-**Will The Town Vote On This?** - At some point we need to start doing the parts of this that cost money, which will require a "debt exclusion override" vote - essentially the town votes to exclude the debt from counting toward the limits of Proposition 2 1/2.  The town must borrow the money to pay the upfront costs of building the network;  the goal is for that money to be repaid out of subscriber fees.
+**Who Will Pay For This?** - There are a variety of grants and sources of grants available - most notably, the $50,000,000 in the recent IT bond bill.  That money is currently *authorized* for MBI - meaning MBI will be issuing grants to individual towns' MLPs or entities such as WiredWest.  The money is not yet *appropriated* - meaning that MBI does not actually have it yet - it's still working its way through the system to them.
+
+Realistically, the town will very likely have to raise a bond to cover some of the work.  Ideally, that gets paid back out of subscriber fees over a long period - in other words, the system pays for itself, but not quickly.
+
+**Will The Town Vote On This?** - At some point we need to start doing the parts of this that cost money, which may require a "debt exclusion override" vote - essentially the town votes to exclude the debt from counting toward the limitations placed on it by [Proposition 2 1/2](http://en.wikipedia.org/wiki/Proposition_2%C2%BD).  
+
+The town must borrow the money to pay the upfront costs of building the network;  the goal is for that money to be repaid out of subscriber fees.
 
 **How Soon Will I Have Broadband** - Any estimates are conjecture at this point, but the *best-case* scenario at the date of this writing (September, 2014) is two years from now, probably a bit longer.
 
