@@ -46,11 +46,11 @@ Broadband internet creates opportunities for people in Shutesbury that do not cu
 
 At the moment, a handful of households in Shutesbury have broadband internet via Verizon DSL, which is slow when compared with the options in nearby towns;  some households pay high rates for satellite-based internet, which is fast but suffers from high latency and outages during bad weather.  Some parts of town have cellular phone signals and can use that, usually with limited data plans, and also subject to weather-related outages.
 
-Over the last 20 years, various companies have hinted at or even promised to deliver broadband internet to Shutesbury.  None of them have done so, and there is little reason to - Shutesbury is small, has low population density, and because it abuts the Quabbin Reservoir, is not on the way to any place with more potential customers.
+Over the last 20 years, various companies have hinted at or even promised to deliver broadband internet to Shutesbury.  None of them have done so, and there is little reason to - Shutesbury has relatively few households and low population density.  Because it abuts the Quabbin Reservoir, Shutesbury is not on the way to any place with more potential customers.  So the return on investment for commercial internet access is not there.
 
 We believe an investment in broadband internet access in Shutesbury can pay for itself, but on a 20-30 year time horizon - the kind of investment government can make, but which businesses that need to produce shorter-term profits for shareholders cannot.  The private market has had more than twenty years to solve this problem in Shutesbury.  It has not.
 
-There is funding available from the state to defray the costs if we do this in the near future.
+There is funding available from the state to defray the costs if we do this in the near future - the recent [IT bond bill](http://www.mma.org/economic-a-community-development/13518-it-bond-bills-passed-by-house-senate-would-fund-high-speed-internet-in-rural-areas) means that funds are available if we act now, making this a good time to invest in broadband in Shutesbury.
 
 Our neighboring town, Leverett, is mid-way through installing such a network, and we have the ability to learn from their experience.
 
