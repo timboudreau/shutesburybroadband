@@ -14,9 +14,9 @@ the real thing.
 
 If you are technical, this site has great tools for tracking requests for changes - [report an issue here](/timboudreau/shutesburybroadband/issues).  If you use Git, [*pull requests* are the way to make an edit](https://help.github.com/articles/creating-a-pull-request) and request that the author incorporate your changes.
 
-If that sounds too complicated, download or copy/paste the [raw FAQ document](https://raw.githubusercontent.com/timboudreau/shutesburybroadband/master/broadbandFaq.md), make your edits and email them to [Tim Boudreau](mailto:niftiness@gmail.com).
+If that sounds too complicated, [download or copy/paste the raw FAQ document](https://raw.githubusercontent.com/timboudreau/shutesburybroadband/master/broadbandFaq.md), make your edits and email them to [Tim Boudreau](mailto:niftiness@gmail.com).
 
-The only caveat to sending edits is:  **do not make gratuitous changes to formatting - change what you think can be improved and only that**.
+The only caveat to sending edits is:  *do not make gratuitous changes to formatting - change what you think can be improved and only that*.  The history of a document - who did what and when - is per *line*.  So gratuitous changes make it complicated to tell who changed what.
 
 
 ## Document Format
