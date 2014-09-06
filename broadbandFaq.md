@@ -18,7 +18,7 @@ Building a network is a multi-step infrastructure project that involves a number
  - Fiber optic cable run between poles in town
  - Fiber optic cable run from telephone poles to houses
  - Setting up the infrastructure for managing the network (small building or location in town hall)
- - Contracting with Massachusetts Broadband Initiative (MBI) - a quasi-public organization which is providing the fiber optic link to Town Hall already, to provide bandwidth for resale to consumers
+ - Contracting with Massachusetts Broadband Initiative (MBI) - a quasi-private organization which is providing the fiber optic link to Town Hall already, to provide bandwidth for resale to consumers, and manages grants from the state to build "last mile" networks
  - Contracting a local ISP to manage the network
 Some of these steps can be done in parallel;  some of them cannot be done until the town can prove they will be paid for.  A number of these steps require the town to issue formal Request for Proposals and collect bids to do the work.
 
