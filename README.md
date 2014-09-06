@@ -18,6 +18,8 @@ If that sounds too complicated, [download or copy/paste the raw FAQ document](ht
 
 The only caveat to sending edits is:  *do not make gratuitous changes to formatting - change what you think can be improved and only that*.  The history of a document - who did what and when - is per *line*.  So gratuitous changes make it complicated to tell who changed what.
 
+Do not send changes Microsoft Word or other proprietary formats - such tools are not available to everyone and so, inappropriate for public documents, and are highly likely to alter the formatting unnecessarily.
+
 
 ## Document Format
 
