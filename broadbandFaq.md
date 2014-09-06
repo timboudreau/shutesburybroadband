@@ -126,6 +126,8 @@ Realistically, the town will very likely have to raise a bond to cover some of t
 
 The town must borrow the money to pay the upfront costs of building the network;  the goal is for that money to be repaid out of subscriber fees.
 
+**Can I keep my existing Verizon phone / DSL service?** - Yes.  You are under no obligation to use the service.
+
 **What Parts Of This Cost Money** - Building the network involves paying for
 
  - Doing a network design - i.e. where will the fiber run, what splitters or other equipment is needed where.  The design is also a prerequisite for making detailed cost estimates.
