@@ -173,7 +173,7 @@ Fiber to the curb decreases the upfront costs of the network, but means that the
 
 Fiber to every house means that the value of everyone's home increases across the board - that means no relative change in value (your house is worth more, but so is everybody else's), and so no tax increase simply because you got connected.
 
-We recommend fiber to the home, not just the curb.
+We recommend fiber to the home, not just the curb.  If it proves impossible to find funding for fiber-to-the-home, but to-the-curb is within financial reach, then it may be considered.
 
 **Why Are We Doing A Pole Inventory? Doesn't Verizon or National Grid Have This Information?**
 Yes they do and they will not give it to us.  A town doing broadband on its own is seen as competition.  They are obligated to hang fiber on the poles if we apply for the work and pay for it to be done, but they are not doing us any favors.
