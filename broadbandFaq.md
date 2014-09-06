@@ -78,7 +78,7 @@ Shutesbury is a member of the cooperative WiredWest, a non-profit coalition of "
 
  * [**GPON**](http://en.wikipedia.org/wiki/Passive_optical_network) - one of our options for type of network, which uses passive splitters to connect a smaller number of fibers to the backhaul network
 
- * Latency - the time it takes for data to reach a destination, independent of the speed of travel. Satellite internet suffers from high latency.  Think of it this way:  You are standing in a field a mile from your friend, who has a very powerful fire-hose aimed at you.  When you say so, your friend turns on the water.  Once the water arrives, it will be moving very fast - but you still will wait a while before it shows up, while the water is travelling through the air.  That delay is the *latency* - and is the same phenomenon seen with satellite internet - you click a link, and after some latency, the page seems to arrive all at once.
+ * **Latency** - the time it takes for data to reach a destination, independent of the speed of travel. Satellite internet suffers from high latency.  Think of it this way:  You are standing in a field a mile from your friend, who has a very powerful fire-hose aimed at you.  When you say so, your friend turns on the water.  Once the water arrives, it will be moving very fast - but you still will wait a while before it shows up, while the water is travelling through the air.  That delay is the *latency* - and is the same phenomenon seen with satellite internet - you click a link, and after some latency, the page seems to arrive all at once.
 
 ### Dependencies
 
