@@ -80,6 +80,7 @@ Shutesbury is a member of the cooperative WiredWest, a non-profit coalition of "
 
  * **Latency** - the time it takes for data to reach a destination, independent of the speed of travel. Satellite internet suffers from high latency.  Think of it this way:  You are standing in a field a mile from your friend, who has a very powerful fire-hose aimed at you.  When you say so, your friend turns on the water.  Once the water arrives, it will be moving very fast - but you still will wait a while before it shows up, while the water is travelling through the air.  That delay is the *latency* - and is the same phenomenon seen with satellite internet - you click a link, and after some latency, the page seems to arrive all at once.
 
+
 ### Dependencies
 
 Some parts of the work can be done in parallel - for example, pole applications can be done on a "rolling" basis as the work is being done.  Other things - particularly funding-dependent things can only be done once money to pay for them is available.  In particular:
@@ -106,65 +107,73 @@ Some parts of the work can be done in parallel - for example, pole applications 
 The decision of whether to go with WiredWest or not is one the selectboard will make, based on input from the broadband committee, their own investigation of the available options and assessment of the liklihood of success.
 
 
-## Frequently Asked Questions
+Frequently Asked Questions
+==========================
 
-**Will Anybody Be Left Out** - This will be partly funded from tax dollars, and it is only fair that if your taxes help to pay for it, that you should benefit from it.  Nobody will be left out.  You can choose whether or not to sign up for service, but if you live in Shutesbury, the connection will be there for you.
+**Will Anybody Be Left Out?**
+This will be partly funded from tax dollars, and it is only fair that if your taxes help to pay for it, that you should benefit from it.  Nobody will be left out.  You can choose whether or not to sign up for service, but if you live in Shutesbury, the connection will be there for you.
 
-**How Soon Will I Have Broadband** - Any estimates are conjecture at this point, but the *best-case* scenario at the date of this writing (September, 2014) is two years from now, probably a bit longer.
+**How Soon Will I Have Broadband?**
+Any estimates are conjecture at this point, but the *best-case* scenario at the date of this writing (September, 2014) is two years from now, probably a bit longer.
 
-**How Much Will The Subscriber Fees Be** - Any number is speculative at this point, but we believe it will be in the $50/$75 month range for both basic internet *and* phone service.  For most people, that will be less than they are paying now.
+**How Much Will The Subscriber Fees Be?**
+Any number is speculative at this point, but we believe it will be in the $50/$75 month range for both basic internet *and* phone service.  For most people, that will be less than they are paying now.
 
-**Will My Taxes Go Up** - While we cannot at this time specify exact numbers, the expectation is that it will go up by less than $300 per household per year or $25/month.
+**Will My Taxes Go Up**
+While we cannot at this time specify exact numbers, the expectation is that it will go up by less than $300 per household per year or $25/month.
 
 If all homes are connected (as opposed to "fiber to the curb") then property taxes should be unaffected - since the value of your home relative to your neighbors homes does not change.
 
-**Who Will Pay For This?** - There are a variety of grants and sources of grants available - most notably, the $50,000,000 in the recent IT bond bill.  That money is currently *authorized* for MBI - meaning MBI will be issuing grants to individual towns' MLPs or entities such as WiredWest.  The money is not yet *appropriated* - meaning that MBI does not actually have it yet - it's still working its way through the system to them.
+**Who Will Pay For This?**
+There are a variety of grants and sources of grants available - most notably, the $50,000,000 in the recent IT bond bill.  That money is currently *authorized* for MBI - meaning MBI will be issuing grants to individual towns' MLPs or entities such as WiredWest.  The money is not yet *appropriated* - meaning that MBI does not actually have it yet - it's still working its way through the system to them.
 
 Realistically, the town will very likely have to raise a bond to cover some of the work.  Ideally, that gets paid back out of subscriber fees over a long period - in other words, the system pays for itself, but not quickly.
 
-**Will The Town Vote On This?** - At some point we need to start doing the parts of this that cost money, which may require a "debt exclusion override" vote - essentially the town votes to exclude the debt from counting toward the limitations placed on it by [Proposition 2 1/2](http://en.wikipedia.org/wiki/Proposition_2%C2%BD).  
+**Will The Town Vote On This?**
+At some point we need to start doing the parts of this that cost money, which may require a "debt exclusion override" vote - essentially the town votes to exclude the debt from counting toward the limitations placed on it by [Proposition 2 1/2](http://en.wikipedia.org/wiki/Proposition_2%C2%BD).  
 
 The town must borrow the money to pay the upfront costs of building the network;  the goal is for that money to be repaid out of subscriber fees.
 
-**Can I keep my existing Verizon phone / DSL service?** - Yes.  You are under no obligation to use the service.
+**Can I keep my existing Verizon phone / DSL service?**
+Yes.  You are under no obligation to use the service.
 
-**What Parts Of This Cost Money** - Building the network involves paying for
+**What Parts Of This Cost Money**
+Building the network involves paying for
 
  - Doing a network design - i.e. where will the fiber run, what splitters or other equipment is needed where.  The design is also a prerequisite for making detailed cost estimates.
  - A project manager or project management company to coordinate and schedule the work, ensure contractors are paid, ensure work is completed on-time and correctly, and be responsible for the details of the project
  - "Pole applications" to Verizon and National Grid, to apply to add fiber to telephone poles;  each application can be for up to 200 poles;  the application fees are applicable to the labor of putting the fiber up later.
  - Labor to actually install the fiber on poles and connect homes
 
-**What Parts Of This Involve A *Request For Proposals (RFP)* and competitive bidding process?** - 
+**What Parts Of This Involve A *Request For Proposals (RFP)* and competitive bidding process?**
 
  - The network design
  - Building the network
  - Management of the resulting network
 
-**Who Will Own The Network** - The town itself will own the network.  The management of it will likely be contracted out to an Internet Service Provider (ISP) with experience managing such networks.  If we go with WiredWest, WiredWest might either *be* the ISP, or contract one.
+**Who Will Own The Network**
+The town itself will own the network.  The management of it will likely be contracted out to an Internet Service Provider (ISP) with experience managing such networks.  If we go with WiredWest, WiredWest might either *be* the ISP, or contract one.
 
 If a third-party wound up owning the network, that third-party could go bankrupt and sell infrastructure paid for by you to a telco or similar company.  We do not want that to even be possible, so we are endeavoring to avoid any situation where that could be the outcome.
 
-**Why Connect Houses, Why Not Fiber To The Curb**
+**Why Connect Houses, Why Not Fiber To The Curb?** 
+Fiber to the curb decreases the upfront costs of the network, but means that the network will initially have no subscribers. Lenders see a network with no built-in subscribers as a worse investment, meaning a higher cost of borrowing.  It also means that each homeowner would need to pay $1000-$2000 to connect their home.  And it means that the taxes on the houses that do connect will go up, since it increases their relative value.
 
-Fiber to the curb decreases the upfront costs of the network, but means that the network will initially have no subscribers. Lenders see a network with no built-in subscribers as a worse investment, meaning a higher cost of borrowing.  It also means that each homeowner would need to pay $1000-$2000 to connect their home.  And it means that the taxes on the houses that do connect will go up, since it increases their relative value.  Fiber to every house means that the value of everyone's home increases across the board - that means no relative change in value (your house is worth more, but so is everybody else's), and so no tax increase simply because you got connected.
+Fiber to every house means that the value of everyone's home increases across the board - that means no relative change in value (your house is worth more, but so is everybody else's), and so no tax increase simply because you got connected.
 
 We recommend fiber to the home, not just the curb.
 
 **Why Are We Doing A Pole Inventory? Doesn't Verizon or National Grid Have This Information?**
-
 Yes they do and they will not give it to us.  A town doing broadband on its own is seen as competition.  They are obligated to hang fiber on the poles if we apply for the work and pay for it to be done, but they are not doing us any favors.
 
-The utility companies own the telephone poles in town;  the town does not.  If you want to add or change something on those poles, you are asking to do something to *their* property.  A "pole application" to do work on one to two hundred poles costs $10,000 - that money gets applied later to pay for the labor to put up the fiber cables.  One mistake on such an application and they can reject it and charge us another $10,000 to apply again.  So we need to have a detailed inventory, and it needs to be 100% correct.
+The utility companies own the telephone poles in town;  the town does not.  If you want to add or change something on those poles, you are asking to do something to *their* property.  A "pole application" to do work on one to two hundred poles costs $10,000 - that money gets applied later to pay for the labor to put up the fiber cables.  One mistake on such an application and they can reject it and charge us another $10,000 to apply again.  So we need to have a detailed inventory, and it needs to be 100% correct.  The only guaranteed-reliable way to have this information is to go and get it ourselves.
 
 
 **Can I Volunteer To Help With The Pole Inventory?**
+Yes!  It is happening on Saturday of the last weekend in October 2014 (rain date the first weekend of November).  Apply on the [mailing list via the town website](http://www.shutesbury.org/broadband).
 
-Yes!  It is happening in the fall of 2014.  Apply on the [mailing list via the town website](http://www.shutesbury.org/broadband).
 
-
-**Are we doing GPON or Active Ethernet**
-
+**Are we doing GPON or Active Ethernet?**
 That is not decided at present, but the broadband committee has been leaning in the direction of recommending GPON.  The difference between the two is this:
 
  - With active ethernet, there is one fiber that runs from each home all the way to the "Point of Presence" (POP) (the connection that brings internet traffic to and from town)
@@ -179,13 +188,13 @@ There is a lot of advocacy on the internet of both solutions, frequently from pa
 A final decision on this has not been made yet.
 
 **What About Wireless?**
-
 Wireless internet is *line of sight*, is affected by weather, and is far slower than fiber-optic networking.  In a hilly town like Shutesbury, at best, it could be made to serve some small areas of town.
 
 Please read [this article](http://muninetworks.org/content/wireless) for a clear and cogent explanation of why wireless networking is not a realistic solution to bring broadband to all of Shutesbury.
 
-**What Are Some Of The Costs Involved?**
+Wireless is an option for densely populated, flat, relatively unobstructed areas.  It is not practical for Shutesbury.
 
+**What Are Some Of The Costs Involved?**
 All costs here are estimates:
 
  - Total cost per household for doing a similar project in Leverett:  $5000 per household
@@ -193,6 +202,11 @@ All costs here are estimates:
  - Cost of running fiber to one telephone pole:  $300
  - Cost of the network design for Leverett (Shutesbury should be comparable): $40,000
  - Cost of an application to Verizon:  $10,000 per 200 poles (the money is applied to work done later)
+
+**How Do I Keep Informed About The Progress**
+
+ - Sign up for the [mailing list on the town web site](https://twitter.com/ShutesburyBBand)
+ - Updates to this document and other relevant info will be notified [via our Twitter account](https://twitter.com/ShutesburyBBand)
 
 Resources
 =========
