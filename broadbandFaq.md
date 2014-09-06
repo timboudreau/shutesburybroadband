@@ -96,6 +96,7 @@ Some parts of the work can be done in parallel - for example, pole applications 
  - Local residents who lived near Granby, MA in the past may remember that Granby had its own phone company;  the punishment for that from national phone companies was that all calls to or from Granby were long-distance and expensive.  A regional network has more resources to fight back against attempts by commercial service providers to squeeze or penalize subscribers.
  - An organization representing 40+ towns has an economy of scale - it is in a better position to negotiate discounts on things like network design and other labor - so it can potentially save towns money
  - Funding is less risky since WiredWest pools funding across all member towns it is building networks for
+ - Costs of damage to infrastructure from storms, such as the [ice-storm of '08](http://en.wikipedia.org/wiki/December_2008_New_England_and_Upstate_New_York_ice_storm), is amortized across all member towns - we're in it together
 
 **Cons:**
 
