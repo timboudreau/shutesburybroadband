@@ -7,9 +7,11 @@ This is a *draft* document.  See the town website for the official version.  All
 
 This document exists to answer questions about broadband in Shutesbury.  If something is missing from it [file a bug](/timboudreau/shutesburybroadband/issues).
 
-The proposal the town is considering is to connect all homes in town to the internet via fiber-optic cable.  There is money available from the state to help pay for some, but not all of it;  there is a fiber optic connection at the town hall which has sufficient bandwidth capacity to supply the entire town with internet at speeds far faster than *anything* currently available.  Fiber optic equipment is upgradeable - at a fundamental level, it is based on the physics of light passing through a piece of glass, split into different frequencies carrying different people's data.  Future advances will come from splitting light more finely, while the physics of light passing through glass do not change.  So an investment in a fiber optic network is an investment that will not be obsolete in 10, 20 or even 30 years.
+The proposal the town is considering is to connect all homes in town to the internet via fiber-optic cable.  There is money available from the state and federal government to help pay for some, but not all of it.
 
-Doing this is a multi-step infrastructure project that involves a number of tasks:
+There is a fiber optic connection at the town hall which has sufficient bandwidth capacity to supply the entire town with internet at speeds far faster than *anything* currently available.  Fiber optic equipment is upgradeable, so we are talking about a future-proof network.  At a fundamental level, it is based on the physics of light passing through a piece of glass, split into different frequencies carrying different people's data.  Future advances come from splitting light more finely; the physics of light passing through glass do not change.  So an investment in a fiber optic network is an investment that will not be obsolete in 10, 20 or even 30 years.
+
+Building a network is a multi-step infrastructure project that involves a number of tasks:
 
  - Make-ready work by Verizon and National Grid to make room for fiber optic cable on some of the poles in town
  - Fiber optic cable run between poles in town
@@ -19,7 +21,9 @@ Doing this is a multi-step infrastructure project that involves a number of task
  - Contracting a local ISP to manage the network
 Some of these steps can be done in parallel;  some of them cannot be done until the town can prove they will be paid for.  A number of these steps require the town to issue formal Request for Proposals and collect bids to do the work.
 
-There are various grants available from the state which can help defray the costs, but it is unlikely that they will cover the entire cost of building the network - meaning the town will likely need to raise a bond to do that work.
+There are various grants available from the state which can help defray the costs, but it is unlikely that they will cover the entire cost of building the network - meaning the town will likely need to raise a bond to do that work.  The costs of the work may be recovered through subscriber fees in the future, but there are upfront costs for the labor and infrastructure.
+
+Telephone and cable companies have teased Shutesbury with the promise of broadband access for nearly 20 years, but nobody has delivered - two streets in town have wired internet via DSL, a slow, obsolete technology.  We believe it is time to - intelligently - build for Shutesbury what the private market did not, and, forseeably, will not, build.
 
 Part of what the broadband committee is doing is making sure we (and you!) are fully informed about our options in building the network, so that we build something that will work, last, and not cost any more than it has to.
 
