@@ -66,9 +66,7 @@ Shutesbury is a member of the cooperative WiredWest, a non-profit coalition of "
  * [**Massachusetts Broadband Initiative (MBI)**](http://broadband.masstech.org/) - The quasi private organization which built the fiber network that runs to the center of town.  MBI is funded by state and federal grants.  Originally it was chartered to build the entire network to wire homes in Western Massachusetts.  After its funding was cut in half, it has focused on the "middle mile" - getting fiber to towns, so that they can build the "last mile" to residences.
     * MBI is administering the recent $50,000,000 grant from the state to build out "last-mile" networks to homes in Western MA
 
- * [**Axia**](http://www.axia.com/) - Axia is the company contracted by MBI to administer the "middle mile" network;  assuming we use MBI's network (which is currently the only option), the network we build would be reselling bandwidth bought in bulk from Axia.  Axia's business model depends on selling bandwidth to businesses;  our understanding is that currently commercial uptake has been lower than desired, which may affect rates.
-
-Axia is not permitted to sell bandwidth delivered by the "middle mile" network directly to consumers.
+ * [**Axia**](http://www.axia.com/) - Axia is the company contracted by MBI to administer the "middle mile" network;  assuming we use MBI's network (which is currently the only option), the network we build would be reselling bandwidth bought in bulk from Axia.  Axia's business model depends on selling bandwidth to businesses;  our understanding is that currently commercial uptake has been lower than desired, which may affect rates.  Axia is not permitted to sell bandwidth delivered by the "middle mile" network directly to consumers;  a local ISP must act as a reseller.
 
  * [**Point of Presence (POP)**](http://en.wikipedia.org/wiki/Point_of_presence) - the place where fiber optic lines to households connect to the cable that runs out of town and connects to the wider internet
 
