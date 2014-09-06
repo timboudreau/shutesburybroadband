@@ -7,7 +7,7 @@ editing of those documents.
 Anything you read here is 100% unofficial - see [the town web site](http://www.shutesbury.org/broadband) for
 the real thing.
 
-The draft FAQ is [here](./broadbandFaq.md).
+**The [draft FAQ is here](./broadbandFaq.md).**
 
 
 ## How To Submit Edits / Corrections / Revisions
