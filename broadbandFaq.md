@@ -185,4 +185,12 @@ All costs here are estimates:
  - Cost of the network design for Leverett (Shutesbury should be comparable): $40,000
  - Cost of an application to Verizon:  $10,000 per 200 poles (the money is applied to work done later)
 
+Resources
+=========
+
+Our goal with this document is to answer questions specific to [Shutesbury](http://shutesbury.org).  There are many documents on the web which discuss municipal networks in depth.  Rather than reinvent the wheel here, here are some links:
+
+ * [Muni Networks excellent FAQ](http://muninetworks.org/content/frequently-asked-questions) 
+ * [Leverett's Broadband FAQ](http://www.leverett.ma.us/content/leverett-broadband-frequently-asked-questions)
+
 
