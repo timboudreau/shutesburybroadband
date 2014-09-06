@@ -13,6 +13,7 @@ There is a fiber optic connection at the town hall which has sufficient bandwidt
 
 Building a network is a multi-step infrastructure project that involves a number of tasks:
 
+ - Conducting an inventory of telephone poles in town, road-miles and number of households and lots that are likely to be built on, in order to do accurate cost estimates - we are organizing a volunteer effort for this in late October 2014
  - Make-ready work by Verizon and National Grid to make room for fiber optic cable on some of the poles in town
  - Fiber optic cable run between poles in town
  - Fiber optic cable run from telephone poles to houses
