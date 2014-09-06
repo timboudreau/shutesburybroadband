@@ -106,6 +106,7 @@ Some parts of the work can be done in parallel - for example, pole applications 
 
 The decision of whether to go with WiredWest or not is one the selectboard will make, based on input from the broadband committee, their own investigation of the available options and assessment of the liklihood of success.
 
+Much of the work to be done is identical whether or not the town opts to cast its lot with WiredWest - the same work needs to be done either way - so it is not necessary to answer this question immediately.
 
 Frequently Asked Questions
 ==========================
@@ -119,7 +120,7 @@ Any estimates are conjecture at this point, but the *best-case* scenario at the 
 **How Much Will The Subscriber Fees Be?**
 Any number is speculative at this point, but we believe it will be in the $50/$75 month range for both basic internet *and* phone service.  For most people, that will be less than they are paying now.
 
-**Will My Taxes Go Up**
+**Will My Taxes Go Up?**
 While we cannot at this time specify exact numbers, the expectation is that it will go up by less than $300 per household per year or $25/month.
 
 If all homes are connected (as opposed to "fiber to the curb") then property taxes should be unaffected - since the value of your home relative to your neighbors homes does not change.
@@ -137,7 +138,7 @@ The town must borrow the money to pay the upfront costs of building the network;
 **Can I keep my existing Verizon phone / DSL service?**
 Yes.  You are under no obligation to use the service.
 
-**What Parts Of This Cost Money**
+**What Parts Of This Cost Money?**
 Building the network involves paying for
 
  - Doing a network design - i.e. where will the fiber run, what splitters or other equipment is needed where.  The design is also a prerequisite for making detailed cost estimates.
@@ -151,7 +152,7 @@ Building the network involves paying for
  - Building the network
  - Management of the resulting network
 
-**Who Will Own The Network**
+**Who Will Own The Resulting Infrastructure/Network?**
 The town itself will own the network.  The management of it will likely be contracted out to an Internet Service Provider (ISP) with experience managing such networks.  If we go with WiredWest, WiredWest might either *be* the ISP, or contract one.
 
 If a third-party wound up owning the network, that third-party could go bankrupt and sell infrastructure paid for by you to a telco or similar company.  We do not want that to even be possible, so we are endeavoring to avoid any situation where that could be the outcome.
@@ -203,7 +204,7 @@ All costs here are estimates:
  - Cost of the network design for Leverett (Shutesbury should be comparable): $40,000
  - Cost of an application to Verizon:  $10,000 per 200 poles (the money is applied to work done later)
 
-**How Do I Keep Informed About The Progress**
+**How can I keep informed?**
 
  - Sign up for the [mailing list on the town web site](https://twitter.com/ShutesburyBBand)
  - Updates to this document and other relevant info will be notified [via our Twitter account](https://twitter.com/ShutesburyBBand)
