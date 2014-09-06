@@ -77,7 +77,7 @@ Shutesbury is a member of the cooperative WiredWest, a non-profit coalition of "
 
  * **Middle Mile** - the set of fiber optic cables that connect points of presence in towns with the internet backbone
 
- * **Take Rate** - the percentage of households in an area with a network who actually subscribe to use the network
+ * **Take Rate** - the percentage of households in an area with a network who actually subscribe to use the network.  Having an accurate estimate of this is important, to be able to predict how long it will take a network to pay for itself, which affects interest rates.
 
  * **Internet Service Provider (ISP)** - a company which is responsible for managing a network, billing for its use, fixing things that go wrong and providing customer support to subscribers on that network.  For example, Leverett has contracted [Crocker Communications](http://www.crocker.com/) to run their network.
 
