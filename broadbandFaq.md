@@ -23,7 +23,7 @@ Some of these steps can be done in parallel;  some of them cannot be done until 
 
 There are various grants available from the state which can help defray the costs, but it is unlikely that they will cover the entire cost of building the network - meaning the town will likely need to raise a bond to do that work.  The costs of the work may be recovered through subscriber fees in the future, but there are upfront costs for the labor and infrastructure.
 
-Telephone and cable companies have teased Shutesbury with the promise of broadband access for nearly 20 years, but nobody has delivered - two streets in town have wired internet via DSL, a slow, obsolete technology.  We believe it is time to - intelligently - build for Shutesbury what the private market did not, and, forseeably, will not, build.
+Telephone and cable companies have teased Shutesbury with the promise of broadband access for nearly 20 years, but nobody has delivered - two streets in town have wired internet via DSL, a slow, obsolete technology.  We believe it is time to - intelligently - build for Shutesbury what the private market did not - and has no plans to - build.
 
 Part of what the broadband committee is doing is making sure we (and you!) are fully informed about our options in building the network, so that we build something that will work, last, and not cost any more than it has to.
 
