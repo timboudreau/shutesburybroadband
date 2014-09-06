@@ -5,7 +5,7 @@ This is a *draft* document.  See the town website for the official version.  All
 
 ### Overview
 
-This document exists to answer questions about broadband in Shutesbury.  If something is missing from it [file a bug](http://link.example).
+This document exists to answer questions about broadband in Shutesbury.  If something is missing from it [file a bug](/timboudreau/shutesburybroadband/issues).
 
 The proposal the town is considering is to connect all homes in town to the internet via fiber-optic cable.  There is money available from the state to help pay for some, but not all of it;  there is a fiber optic connection at the town hall which has sufficient bandwidth capacity to supply the entire town with internet at speeds far faster than *anything* currently available.  Fiber optic equipment is upgradeable - at a fundamental level, it is based on the physics of light passing through a piece of glass, split into different frequencies carrying different people's data.  Future advances will come from splitting light more finely, while the physics of light passing through glass do not change.  So an investment in a fiber optic network is an investment that will not be obsolete in 10, 20 or even 30 years.
 
@@ -26,7 +26,7 @@ Part of what the broadband committee is doing is making sure we (and you!) are f
 
 ### Why Broadband
 
-There are [many documents](http://link.example) that do an excellent job of explaining the value to a community of broadband internet, so we will keep this section short.
+There are [many documents](http://muninetworks.org/content/frequently-asked-questions#ownership) that do an excellent job of explaining the value to a community of broadband internet, so we will keep this section short.
 
 Broadband internet creates opportunities for people in Shutesbury that do not currently exist.  Specifically, it
 
@@ -115,7 +115,7 @@ The utility companies own the telephone poles in town;  the town does not.  If y
 
 **Can I Volunteer To Help With The Pole Inventory?**
 
-Yes!  It is happening in the fall of 2014.  Apply on the [mailing list](http://url.example).
+Yes!  It is happening in the fall of 2014.  Apply on the [mailing list via the town website](http://www.shutesbury.org/broadband).
 
 
 **Are we doing GPON or Active Ethernet**
@@ -131,7 +131,7 @@ GPON is the cheaper option (many homes' signals are multiplexed on fewer cables)
 
 Wireless internet is *line of sight*, is affected by weather, and is far slower than fiber-optic networking.  In a hilly town like Shutesbury, at best, it could be made to serve some small areas of town.
 
-Please read [this article](http://foo.example) for a clear and cogent explanation of why wireless networking is not a realistic solution to bring broadband to all of Shutesbury.
+Please read [this article](http://muninetworks.org/content/wireless) for a clear and cogent explanation of why wireless networking is not a realistic solution to bring broadband to all of Shutesbury.
 
 **What Are Some Of The Costs Involved?**
 
@@ -151,11 +151,4 @@ At this point, there are some questions that are yet to be answered, specificall
 
  - The state government has issued a $50,000,000 grant specifically to address broadband in underserved towns like Shutesbury.  Those funds are come in the form of grants administered by the Massachusetts Broadband Initiative (MBI).
  - WiredWest is a cooperative of towns in Western Massachusetts, designed to allow towns to pool resources to fund networks in all member towns;  potentially it could also *be* the ISP that manages the network.  That has the advantage that WiredWest can negotiate better rates - if you're contracting a company to design networks for 42 towns, you can get a much better rate than one town can on its own.  At the same time, coordinating work on 42 networks is more complicated than coordinating work on one.  The decision of whether to go with WiredWest or to take Leverett's go-it-alone approach will be made by the selectboard.  By representing multple towns, WiredWest has a shot at a greater share of the funds from the 
-
-
-
-
-
-
-
 
