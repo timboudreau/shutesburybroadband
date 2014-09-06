@@ -1,7 +1,7 @@
 Shutesbury Broadband FAQ
 ------------------------
 
-This is a *draft* document.  See the town website for the official version.  All statements herein should be construed as 
+This is a *draft* document.  See the town website for the official version.  All statements herein should be construed as speculative.
 
 ### Overview
 
