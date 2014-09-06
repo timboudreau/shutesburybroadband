@@ -68,8 +68,11 @@ Shutesbury is a member of the cooperative WiredWest, a non-profit coalition of "
 
  * **ISP** - Internet Service Provider - a company which is responsible for managing a network, billing for its use, fixing things that go wrong and providing customer support to subscribers on that network
 
- * **Backhaul** - The connection that connects a local network to the wider world of the internet
+ * **Backhaul Network** - The connection that connects a local network to the wider world of the internet - the same way a WIFI box connects computers to the network it is physically plugged in to 
 
+ * [**Active Ethernet**](http://en.wikipedia.org/wiki/Fiber_to_the_x#Optical_distribution_networks) - another option for type of network, which utilizes separate connections to the backhaul for each household
+
+ * [**GPON**](http://en.wikipedia.org/wiki/Passive_optical_network) - one of our options for type of network, which uses passive splitters to connect a smaller number of fibers to the backhaul network
 
 
 ### Dependencies
