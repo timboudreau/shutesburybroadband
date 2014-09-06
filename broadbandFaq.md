@@ -78,6 +78,12 @@ Shutesbury is a member of the cooperative WiredWest, a non-profit coalition of "
 
 **Will Anybody Be Left Out** - This will be partly funded from tax dollars, and it is only fair that if your taxes help to pay for it, that you should benefit from it.  Nobody will be left out.
 
+**How Soon Will I Have Broadband** - Any estimates are conjecture at this point, but the *best-case* scenario at the date of this writing (September, 2014) is two years from now, probably a bit longer.
+
+**How Much Will The Subscriber Fees Be** - Any number is speculative at this point, but we believe it will be in the $50/$75 month range for both basic internet *and* phone service.  For most people, that will be less than they are paying now.
+
+**Will My Taxes Go Up** - While we cannot at this time specify exact numbers, the expectation is that it will go up by less than $300 per household per year or $25/month.
+
 **Who Will Pay For This?** - There are a variety of grants and sources of grants available - most notably, the $50,000,000 in the recent IT bond bill.  That money is currently *authorized* for MBI - meaning MBI will be issuing grants to individual towns' MLPs or entities such as WiredWest.  The money is not yet *appropriated* - meaning that MBI does not actually have it yet - it's still working its way through the system to them.
 
 Realistically, the town will very likely have to raise a bond to cover some of the work.  Ideally, that gets paid back out of subscriber fees over a long period - in other words, the system pays for itself, but not quickly.
@@ -85,12 +91,6 @@ Realistically, the town will very likely have to raise a bond to cover some of t
 **Will The Town Vote On This?** - At some point we need to start doing the parts of this that cost money, which may require a "debt exclusion override" vote - essentially the town votes to exclude the debt from counting toward the limitations placed on it by [Proposition 2 1/2](http://en.wikipedia.org/wiki/Proposition_2%C2%BD).  
 
 The town must borrow the money to pay the upfront costs of building the network;  the goal is for that money to be repaid out of subscriber fees.
-
-**How Soon Will I Have Broadband** - Any estimates are conjecture at this point, but the *best-case* scenario at the date of this writing (September, 2014) is two years from now, probably a bit longer.
-
-**Will My Taxes Go Up** - While cannot at this time specify exact numbers, the expectation is that it will go up by less than $300 per household per year.
-
-**How Much Will The Subscriber Fees Cost** - Any number is speculative at this point, but we believe it will be in the $50/$75 month range for both basic internet *and* phone service.
 
 **What Parts Of This Cost Money** - Building the network involves paying for
 
