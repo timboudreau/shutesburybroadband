@@ -65,13 +65,29 @@ Shutesbury is a member of the cooperative WiredWest, a non-profit coalition of "
  * **Axia** - Axia is the company contracted by MBI to administer the "middle mile" network;  assuming we use MBI's network (which is currently the only option), the network we build would be reselling bandwidth bought in bulk from Axia.  Axia's business model depends on selling bandwidth to businesses;  our understanding is that currently commercial uptake has been lower than desired, which may affect rates.
 
 
-### What We Propose
+### Dependencies
 
-  [Pending - detailed content]
+Some parts of the work can be done in parallel - for example, poll applications can be done on a "rolling" basis as the work is being done.  Other things - particularly funding-dependent things can only be done once money to pay for them is available.  In particular:
+
+ - Funding must be available for pole applications in order to make them - that means grants must be received and any additional funds needed must be available at the time they are done
+ - Pole applications cost money and have a time-out - so the network design dictates the number and order of pole applications.  So, funding precedes network design;  network design precedes pole applications;  pole applications precede work to add fiber-optic cable to poles
+
 
 ### Wired West Pros and Cons
 
-  [Pending]
+**Pros:**
+
+ - Local residents who lived near Granby, MA in the past may remember that Granby had its own phone company;  the punishment for that from national phone companies was that all calls to or from Granby were long-distance and expensive.  A regional network has more resources to fight back against attempts by commercial service providers to squeeze or penalize subscribers.
+ - An organization representing 40+ towns has an economy of scale - it is in a better position to negotiate discounts on things like network design and other labor - so it can potentially save towns money
+ - Funding is less risky since WiredWest pools funding across all member towns it is building networks for
+
+**Cons:**
+
+ - Coordinating work across 45 towns is far more complex than coordinating work in one
+ - WiredWest has finite resources and there is no guarantee that Shutesbury's needs will not wind up behind other towns in the queue of networks to be built, so getting broadband may take longer
+ - WiredWest has existed for several years, but has not yet built a network in *any* town, so it has no track-record
+
+The decision of whether to go with WiredWest or not is one the selectboard will make, based on input from the broadband committee, their own investigation of the available options and assessment of the liklihood of success.
 
 
 ## Frequently Asked Questions
@@ -95,7 +111,7 @@ The town must borrow the money to pay the upfront costs of building the network;
 **What Parts Of This Cost Money** - Building the network involves paying for
 
  - Doing a network design - i.e. where will the fiber run, what splitters or other equipment is needed where.  The design is also a prerequisite for making detailed cost estimates.
- - Someone to manage the project, coordinate the work and be responsible for tasks being completed well, on-time and in the right order
+ - A project manager or project management company to coordinate and schedule the work, ensure contractors are paid, ensure work is completed on-time and correctly, and be responsible for the details of the project
  - "Pole applications" to Verizon and National Grid, to apply to add fiber to telephone poles;  each application can be for up to 200 poles;  the application fees are applicable to the labor of putting the fiber up later.
  - Labor to actually install the fiber on poles and connect homes
 
@@ -105,7 +121,9 @@ The town must borrow the money to pay the upfront costs of building the network;
  - Building the network
  - Management of the resulting network
 
-**Who Will Own The Network** - The town itself will own the network.  The management of it will likely be contracted out to an Internet Service Provider (ISP) with experience managing such networks.  If a third-party wound up owning the network, that third-party could go bankrupt and sell infrastructure paid for by you to another third-party.  We do not want that to even be possible, so we are not considering situations where that could be the outcome.
+**Who Will Own The Network** - The town itself will own the network.  The management of it will likely be contracted out to an Internet Service Provider (ISP) with experience managing such networks.  If we go with WiredWest, WiredWest might either *be* the ISP, or contract one.
+
+If a third-party wound up owning the network, that third-party could go bankrupt and sell infrastructure paid for by you to a telco or similar company.  We do not want that to even be possible, so we are endeavoring to avoid any situation where that could be the outcome.
 
 **Why Connect Houses, Why Not Fiber To The Curb**
 
@@ -132,7 +150,13 @@ That is not decided at present, but the broadband committee has been leaning in 
  - With active ethernet, there is one fiber that runs from each home all the way to the "Point of Presence" (POP) (the connection that brings internet traffic to and from town)
  - With GPON, the design looks like hubs and spokes - there are passive splitters, and the network fans out from various points
 
+GPON costs about 1/3 less than Active Ethernet, owing to it requiring fewer fibers and thus smaller cables attached to poles;  since the cables weigh less, they are less prone to breakage and therefore cheaper to maintain.
+
 GPON is the cheaper option (many homes' signals are multiplexed on fewer cables);  active ethernet can potentially deliver more bandwidth.  Google Fiber and many university campuses use GPON for their networks successfully, and it appears to be the direction the industry is going.
+
+There is a lot of advocacy on the internet of both solutions, frequently from parties that have a financial interest in one or the other.  The decision is similar to choosing VHS versus Beta (two competing video tape standards in the 1980s).  Looking at what companies that build networks are actually *doing*, it appears that GPON is more common - which suggests that maintenance and equipment upgrades for GPON networks will be cheaper in the long-term.  Here is a link to [one discussion of the choices](http://www.geekzone.co.nz/forums.asp?topicid=58040) from New Zealand, which has been rolling out fiber in recent years.
+
+A final decision on this has not been made yet.
 
 **What About Wireless?**
 
