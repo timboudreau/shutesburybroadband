@@ -74,7 +74,7 @@ Shutesbury is a member of the cooperative WiredWest, a non-profit coalition of "
 
 ### Dependencies
 
-Some parts of the work can be done in parallel - for example, poll applications can be done on a "rolling" basis as the work is being done.  Other things - particularly funding-dependent things can only be done once money to pay for them is available.  In particular:
+Some parts of the work can be done in parallel - for example, pole applications can be done on a "rolling" basis as the work is being done.  Other things - particularly funding-dependent things can only be done once money to pay for them is available.  In particular:
 
  - Funding must be available for pole applications in order to make them - that means grants must be received and any additional funds needed must be available at the time they are done
  - Pole applications cost money and have a time-out - so the network design dictates the number and order of pole applications.  So, funding precedes network design;  network design precedes pole applications;  pole applications precede work to add fiber-optic cable to poles
