@@ -135,13 +135,13 @@ While we cannot at this time specify exact numbers, the expectation is that it w
 
 If all homes are connected (as opposed to "fiber to the curb") then property tax rates should be unaffected.  The value of your home, if you sell it, goes up.  But the value of your home relative to your neighbors' homes does not change (theirs goes up by the same percentage), and the difference between valuations is what drives property tax rates.
 
-**Who Will Pay For This?**
+**Who Will Pay For Building The Network?**
 There are a variety of grants and sources of grants available - most notably, the $50,000,000 in the recent IT bond bill.  That money is currently *authorized* for MBI - meaning MBI will be issuing grants to individual towns' MLPs or entities such as WiredWest.  The money is not yet *appropriated* - meaning that MBI does not actually have it yet - it's still working its way through the system to them.
 
 Realistically, the town will very likely have to raise a bond to cover some of the work.  Ideally, that gets paid back out of subscriber fees over a long period - in other words, the system pays for itself, but not quickly.
 
-**Will The Town Vote On This?**
-At some point we need to start doing the parts of this that cost money, which may require a "debt exclusion override" vote - essentially the town votes to exclude the debt from counting toward the limitations placed on it by [Proposition 2 1/2](http://en.wikipedia.org/wiki/Proposition_2%C2%BD).  
+**Will The Town Vote On Whether Or Not To Build A Fiber Optic Network?**
+At some point we need to start doing the parts of this that cost money, which may require a "debt exclusion override" vote - essentially the town votes to exclude the debt from counting toward the limitations placed on it by [Proposition 2 1/2](http://en.wikipedia.org/wiki/Proposition_2%C2%BD).  At present, the earliest that is likely to happen is the April 2015 town meeting.
 
 The town must borrow the money to pay the upfront costs of building the network;  the goal is for that money to be repaid out of subscriber fees.
 
