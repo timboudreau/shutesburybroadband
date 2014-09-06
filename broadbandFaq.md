@@ -52,10 +52,6 @@ Our neighboring town, Leverett, is mid-way through installing such a network, an
 Shutesbury is a member of the cooperative WiredWest, a non-profit coalition of "municipal lighting plants" of towns in Western Massachusetts.  A municipal lighting plant (MLP) is a legal entity belonging to the town which may legally provide telecommunications services such as telephone and internet.
 
 
-## What Does Running A Network Involve?
-
-
-
 ## Entities Involved
 
  * **Municipal Lighting Plant (MLP)** - A legal entity under Chapter 164 of Massachusetts General Laws, which belongs to the town and can deliver telecommunications services, which includes internet service.  Shutesbury has one.
@@ -65,17 +61,16 @@ Shutesbury is a member of the cooperative WiredWest, a non-profit coalition of "
  * **Massachusetts Broadband Initiative (MBI)** - The quasi private organization which built the fiber network that runs to the center of town.  MBI is funded by state and federal grants;  originally it was chartered to build the entire network to wire homes in Western Massachusetts;  after its funding was cut in half, it has focused on the "middle mile" - getting fiber to towns, so that they can build the "last mile" to residences.
     * MBI is administering the recent $50,000,000 grant from the state to build out "last-mile" networks to homes in Western MA
 
- * **Axia** - Axia is the company contracted by MBI to administer the "middle mile" network;  assuming we use MBI's network (which is currently the only option), the network we build would be reselling bandwidth bought in bulk from Axia.  Axia's business model depends on selling bandwidth to businesses;  our understanding is that currently commercial uptake has been lower than desired.
+ * **Axia** - Axia is the company contracted by MBI to administer the "middle mile" network;  assuming we use MBI's network (which is currently the only option), the network we build would be reselling bandwidth bought in bulk from Axia.  Axia's business model depends on selling bandwidth to businesses;  our understanding is that currently commercial uptake has been lower than desired, which may affect rates.
 
 
 ### What We Propose
 
-The proposal under consideration 
+  [Pending - detailed content]
 
 ### Wired West Pros and Cons
 
-Pros: 
-
+  [Pending]
 
 
 ## Frequently Asked Questions
