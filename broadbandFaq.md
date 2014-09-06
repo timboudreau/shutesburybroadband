@@ -71,6 +71,8 @@ Shutesbury is a member of the cooperative WiredWest, a non-profit coalition of "
 
  * [**Point of Presence (POP)**](http://en.wikipedia.org/wiki/Point_of_presence) - the place where fiber optic lines to households connect to the cable that runs out of town and connects to the wider internet
 
+ * [**Request For Proposals (RFP)**](http://www.mass.gov/hed/housing/ph-mod/bidding-and-rfp-information.html) - The formal process by which a town requests bids from contractors to do work
+
  * **Last Mile** - term used to refer to connections between a point of presence and individual households - the last leg of a network
 
  * **Middle Mile** - the set of fiber optic cables that connect points of presence in towns with the internet backbone
