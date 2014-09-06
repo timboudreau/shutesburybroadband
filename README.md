@@ -33,7 +33,7 @@ It is a simple format that requires no technical expertise or special software y
 Transparency.  Git is a tool used by software engineers to collaborate on living documents.  It guarantees that:
 
  - Auditability - who did each edit, when and what was changed are [completely transparent](https://github.com/timboudreau/shutesburybroadband/commit/c5b6a92d2f998725117f017f7bec14bf54182080#diff-04c6e90faac2675aa89e2176d2eec7d8)
- - History is preserved - any historical revision of a document can be seen at any time
+ - History is preserved - any historical revision of a document can be [seen at any time with line-by-line who-did-what-when annotations](https://github.com/timboudreau/shutesburybroadband/blame/master/README.md)
  - Comparisons - it is possible to [see changes side-by-side](https://github.com/timboudreau/shutesburybroadband/commits/master/broadbandFaq.md) 
 
 
