@@ -53,16 +53,23 @@ Our neighboring town, Leverett, is mid-way through installing such a network, an
 Shutesbury is a member of the cooperative WiredWest, a non-profit coalition of "municipal lighting plants" of towns in Western Massachusetts.  A municipal lighting plant (MLP) is a legal entity belonging to the town which may legally provide telecommunications services such as telephone and internet.
 
 
-## Entities Involved
+## Entities And Terminology
 
- * **Municipal Lighting Plant (MLP)** - A legal entity under Chapter 164 of Massachusetts General Laws, which belongs to the town and can deliver telecommunications services, which includes internet service.  Shutesbury has one.
+ * **Municipal Lighting Plant (MLP)** - A legal entity under [Chapter 164 of Massachusetts General Laws](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter164/Section47E), which belongs to the town and can deliver telecommunications services, which includes internet service.  Shutesbury has one.
 
- * **Wired West** is a cooperative of 42 towns - specifically, it's a cooperative for 42 municipal lighting plants - in Western Massachusetts which are working together to bring broadband to all 42 communities.  Shutesbury has the option of building this network as part of a *regional network* administered by WiredWest, or taking Leverett's approach of simply building its own network.
+ * [**Wired West**](http://wiredwest.net/) is a cooperative of 42 towns - specifically, it's a cooperative for 42 municipal lighting plants - in Western Massachusetts which are working together to bring broadband to all 42 communities.  Shutesbury has the option of building this network as part of a *regional network* administered by WiredWest, or taking Leverett's approach of simply building its own network.
 
- * **Massachusetts Broadband Initiative (MBI)** - The quasi private organization which built the fiber network that runs to the center of town.  MBI is funded by state and federal grants;  originally it was chartered to build the entire network to wire homes in Western Massachusetts;  after its funding was cut in half, it has focused on the "middle mile" - getting fiber to towns, so that they can build the "last mile" to residences.
+ * [**Massachusetts Broadband Initiative (MBI)**](http://broadband.masstech.org/) - The quasi private organization which built the fiber network that runs to the center of town.  MBI is funded by state and federal grants;  originally it was chartered to build the entire network to wire homes in Western Massachusetts;  after its funding was cut in half, it has focused on the "middle mile" - getting fiber to towns, so that they can build the "last mile" to residences.
     * MBI is administering the recent $50,000,000 grant from the state to build out "last-mile" networks to homes in Western MA
 
  * **Axia** - Axia is the company contracted by MBI to administer the "middle mile" network;  assuming we use MBI's network (which is currently the only option), the network we build would be reselling bandwidth bought in bulk from Axia.  Axia's business model depends on selling bandwidth to businesses;  our understanding is that currently commercial uptake has been lower than desired, which may affect rates.
+
+ * **Take Rate** - the percentage of households in an area with a network who actually subscribe to use the network
+
+ * **ISP** - Internet Service Provider - a company which is responsible for managing a network, billing for its use, fixing things that go wrong and providing customer support to subscribers on that network
+
+ * **Backhaul** - The connection that connects a local network to the wider world of the internet
+
 
 
 ### Dependencies
@@ -86,6 +93,7 @@ Some parts of the work can be done in parallel - for example, poll applications 
  - Coordinating work across 45 towns is far more complex than coordinating work in one
  - WiredWest has finite resources and there is no guarantee that Shutesbury's needs will not wind up behind other towns in the queue of networks to be built, so getting broadband may take longer
  - WiredWest has existed for several years, but has not yet built a network in *any* town, so it has no track-record
+ - The funding mechanism is more complicated, since, for WiredWest to build a network the town likely must raise a bond, lend that money to WiredWest to be paid back in the future out of subscriber fees.  The proposed mechanism to do that legally is based on [Massachusetts General Laws Chapter 44, Section 8](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter44/Section8)
 
 The decision of whether to go with WiredWest or not is one the selectboard will make, based on input from the broadband committee, their own investigation of the available options and assessment of the liklihood of success.
 
@@ -172,14 +180,6 @@ All costs here are estimates:
  - Cost of the network build in Leverett:  $2.6 million (Shutesbury is geographically bigger)
  - Cost of running fiber to one telephone pole:  $300
  - Cost of the network design for Leverett (Shutesbury should be comparable): $40,000
- - Cost of an application to Verizon
+ - Cost of an application to Verizon:  $10,000 per 200 poles (the money is applied to work done later)
 
-**How Will This Be Funded?**
-
-It will be funded by a combination of state and federal grant money, and possibly a bond raised by the town.  Grants are being applied for but we do not know at present how much.  There are $50 million available from the state, 
-
-At this point, there are some questions that are yet to be answered, specifically:
-
- - The state government has issued a $50,000,000 grant specifically to address broadband in underserved towns like Shutesbury.  Those funds are come in the form of grants administered by the Massachusetts Broadband Initiative (MBI).
- - WiredWest is a cooperative of towns in Western Massachusetts, designed to allow towns to pool resources to fund networks in all member towns;  potentially it could also *be* the ISP that manages the network.  That has the advantage that WiredWest can negotiate better rates - if you're contracting a company to design networks for 42 towns, you can get a much better rate than one town can on its own.  At the same time, coordinating work on 42 networks is more complicated than coordinating work on one.  The decision of whether to go with WiredWest or to take Leverett's go-it-alone approach will be made by the selectboard.  By representing multple towns, WiredWest has a shot at a greater share of the funds from the 
 
