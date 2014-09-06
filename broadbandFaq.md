@@ -108,13 +108,15 @@ The decision of whether to go with WiredWest or not is one the selectboard will 
 
 ## Frequently Asked Questions
 
-**Will Anybody Be Left Out** - This will be partly funded from tax dollars, and it is only fair that if your taxes help to pay for it, that you should benefit from it.  Nobody will be left out.
+**Will Anybody Be Left Out** - This will be partly funded from tax dollars, and it is only fair that if your taxes help to pay for it, that you should benefit from it.  Nobody will be left out.  You can choose whether or not to sign up for service, but if you live in Shutesbury, the connection will be there for you.
 
 **How Soon Will I Have Broadband** - Any estimates are conjecture at this point, but the *best-case* scenario at the date of this writing (September, 2014) is two years from now, probably a bit longer.
 
 **How Much Will The Subscriber Fees Be** - Any number is speculative at this point, but we believe it will be in the $50/$75 month range for both basic internet *and* phone service.  For most people, that will be less than they are paying now.
 
 **Will My Taxes Go Up** - While we cannot at this time specify exact numbers, the expectation is that it will go up by less than $300 per household per year or $25/month.
+
+If all homes are connected (as opposed to "fiber to the curb") then property taxes should be unaffected - since the value of your home relative to your neighbors homes does not change.
 
 **Who Will Pay For This?** - There are a variety of grants and sources of grants available - most notably, the $50,000,000 in the recent IT bond bill.  That money is currently *authorized* for MBI - meaning MBI will be issuing grants to individual towns' MLPs or entities such as WiredWest.  The money is not yet *appropriated* - meaning that MBI does not actually have it yet - it's still working its way through the system to them.
 
