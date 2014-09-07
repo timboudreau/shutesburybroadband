@@ -5,7 +5,7 @@ This is a *draft* document.  See the town website for the official version.  All
 
 ### Overview
 
-This document exists to answer questions about broadband in Shutesbury.  If something is missing from it [file a bug](/timboudreau/shutesburybroadband/issues).
+This document exists to answer questions about broadband in Shutesbury.  If something is missing, wrong or could be phrased better [file a bug](https://github.com/timboudreau/shutesburybroadband/issues) or follow the [instructions for making changes](https://github.com/timboudreau/shutesburybroadband).
 
 The proposal the town is considering is to connect all homes in town to the internet via fiber-optic cable.  There is money available from the state and federal government to help pay for some, but not all of it.
 
