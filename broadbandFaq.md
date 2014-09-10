@@ -13,7 +13,7 @@ As a result of Massachusetts Broadband Initiative's recent "middle mile" project
 
 The Shutesbury Broadband Committee is currently considering plans to connect all homes in town to the internet via fiber-optic cable. At this point, there are different options to consider. There is likely to be money available from the state to help pay for some, but not all of the expenses required.
 
-The following details some of what is required to establish a town-side firber optic network. Building a network is a multi-step infrastructure project that involves a number of tasks:
+The following details some of what is required to establish a town-side fiber-optic network. Building a network is a multi-step infrastructure project that involves a number of tasks:
 
  - Conducting an inventory of telephone poles in town, road-miles and number of households and lots that are likely to be built on, in order to do accurate cost estimates - the Shutesbury Broadband Committee is organizing a volunteer effort for this in late October 2014
  - Make-ready work (moving existing wires) by Verizon and National Grid to make room for fiber optic cable on some of the poles in town
