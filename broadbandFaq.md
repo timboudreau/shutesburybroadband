@@ -169,7 +169,7 @@ The town itself will own the network.  The management of it will likely be contr
 If a third-party wound up owning the network, that third-party could go bankrupt and sell infrastructure paid for by you to a telco or similar company.  We do not want that to be possible, so we are endeavoring to avoid any situation where that could be the outcome.
 
 **Why Connect Houses, Why Not Fiber To The Curb?** 
-Fiber to the curb decreases the upfront costs of the network, but means that the network will initially have no subscribers. Lenders see a network with no built-in subscribers as a worse investment, meaning a higher cost of borrowing.  It also means that each homeowner would need to pay $1000-$2000 to connect their home.  And it means that the taxes on the houses that do connect will go up, since it increases their relative value.
+Fiber to the curb decreases the upfront costs of the network by about 1/3, but means that the network will initially have no subscribers. Lenders see a network with no built-in subscribers as a worse investment, meaning a higher cost of borrowing.  It also means that each homeowner would need to pay $1000-$2000 to connect their home.  And it means that the taxes on the houses that do connect will go up, since it increases their relative value.
 
 Fiber to every house means that the value of everyone's home increases across the board - that means no relative change in value (your house is worth more, but so is everybody else's), and so no tax increase simply because you got connected.
 
