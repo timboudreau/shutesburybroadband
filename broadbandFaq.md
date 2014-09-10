@@ -7,7 +7,7 @@ This is a *draft* document.  See the town website for the official version.  All
 
 This document exists to answer questions about broadband in Shutesbury.  If something is missing, wrong or could be phrased better [file a bug](https://github.com/timboudreau/shutesburybroadband/issues) or follow the [instructions for making changes](https://github.com/timboudreau/shutesburybroadband).
 
-Telephone and cable companies have teased Shutesbury with the promise of broadband (high speed internet) access for nearly 20 years, but nobody has delivered - two streets in town have wired internet via DSL, a slow, obsolete technology built on deteriorating electronics. We believe it is time to - intelligently - build for Shutesbury what the private market did not - and has no plans to - build.
+Telephone and cable companies have teased Shutesbury with the promise of broadband (high speed internet) access for nearly 20 years, but nobody has delivered - a few streets in town have wired internet via DSL, a slow, obsolete technology built on deteriorating electronics. We believe it is time to - intelligently - build for Shutesbury what the private market did not - and has no plans to - build.
 
 As a result of Massachusetts Broadband Initiative's recent "middle mile" project, there is now a fiber optic connection at the town hall which has sufficient bandwidth capacity to supply the entire town with internet at speeds far faster than *anything* currently available.  Fiber optic equipment is upgradeable, so we are talking about a future-proof network.  At a fundamental level, it is based on the physics of light passing through a piece of glass, split into different frequencies carrying different people's data.  Future advances come from splitting light more finely; the physics of light passing through glass do not change.  So an investment in a fiber optic network is an investment that will not be obsolete in 10, 20 or even 30 years.
 
@@ -23,11 +23,11 @@ The following details some of what is required to establish a town-side fiber-op
  - Interfacing with the Massachusetts Broadband Initiative (MBI) - a quasi-private organization which is providing the "middle mile" fiber-optic link to Town Hall already, to provide bandwidth for resale to consumers, and manages grants from the state to build "last mile" networks
  - Contracting a local ISP (Internet Service Provider) to manage the network
 
-Some of these steps can be done in parallel;  most of them cannot be done until the town can prove they will be paid for.  A number of these steps require the town's MLP to issue formal Request for Proposals and collect bids to do the work (a few years back, the town voted to establish the necessary Municipal Light and Power entity that will function on behalf of the people).
+Some of these steps can be done in parallel;  most of them cannot be done until the town can prove they will be paid for.  A number of these steps require the town's Municipal Lighting Plant (MLP) to issue a formal Request for Proposals and collect bids to do the work (a few years back, the town voted to establish the necessary Municipal Light and Power entity that will function on behalf of Shutesbury residents).
 
 There may be grants available from the state which can help defray the costs, but it is unlikely that they will cover the entire cost of building the network - meaning the town will likely need to raise a bond to do that work.  The costs of the work may be recovered through subscriber fees in the future, but there are upfront costs for the labor and infrastructure.
 
-Part of what the broadband committee is doing is making sure we (and you!) are fully informed about our options in building the network, so that we build something that will work, last, and not cost any more than it has to.
+Part of what the broadband committee is doing is making sure we (and you!) are fully informed about our options in building the network, so that we build something that will work, last, and not cost any more than it has to.  Any plan we adopt will be prudent financially and will minimize costs.
 
 
 ### Why Broadband
@@ -119,6 +119,7 @@ The decision of whether to go with WiredWest or not is one the selectboard will 
 
 Much of the work to be done is identical whether or not the town opts to cast its lot with WiredWest - the same work needs to be done either way - so it is not necessary to answer this question immediately.
 
+
 Frequently Asked Questions
 ==========================
 
@@ -132,7 +133,7 @@ Any estimates are conjecture at this point, but the *best-case* scenario at the 
 Any number is speculative at this point, but we believe it will be in the $50/$75 month range for both basic internet *and* phone service.  For most people, that will be less than they are paying now.
 
 **Will My Taxes Go Up?**
-While we cannot at this time specify exact numbers, the expectation is that it will go up by less than $300 per household per year or $25/month, as a result of issuing a bond similar to the one Leverett did.
+While we cannot at this time specify exact numbers, the expectation is that it will go up by less than $300 per household per year or $25/month, as a result of issuing a bond similar to the one Leverett did (it should be noted that Leverett's model simply paid for the network out of tax dollars, rather than having the town lend money to be paid back out of subscriber fees, as we are proposing for Shutesbury).
 
 If all homes are connected (as opposed to "fiber to the curb") then property tax rates should be unaffected.  The value of your home, if you sell it, goes up.  But the value of your home *relative to the value of your neighbors' homes* does not change (theirs go up by the same percentage), and the difference between valuations is what drives changes in property tax amounts for individual properties.
 
@@ -188,7 +189,7 @@ Yes!  It is happening on Saturday of the last weekend in October 2014 (rain date
 **Are we doing GPON or Active Ethernet?**
 That is not decided at present, but the broadband committee has been leaning in the direction of recommending GPON.  The difference between the two is this:
 
- - With active ethernet, there is one fiber that runs from each home all the way to the "Point of Presence" (POP) (the connection that brings internet traffic to and from town)
+ - With active ethernet, there is one fiber that runs from each home all the way to the "Point of Presence" (POP) (the connection that brings internet traffic to and from town) - everybody gets their own fiber
  - With GPON, the design looks like hubs and spokes - there are passive splitters, and the network fans out from various points
 
 GPON costs about 1/3 less than Active Ethernet, owing to it requiring fewer fibers and thus smaller cables attached to poles;  since the cables weigh less, they are less prone to breakage and therefore cheaper to maintain.
