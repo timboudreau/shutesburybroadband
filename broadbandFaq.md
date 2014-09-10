@@ -20,7 +20,7 @@ The following details some of what is required to establish a town-side fiber-op
  - Fiber optic cable run between poles in town
  - Fiber optic cable run from telephone poles to houses
  - Setting up the infrastructure for managing the network (switches in a small building or location in town hall)
- - Interfacing with the Massachusetts Broadband Initiative (MBI) - a quasi-private organization which is providing the fiber optic link to Town Hall already, to provide bandwidth for resale to consumers, and manages grants from the state to build "last mile" networks
+ - Interfacing with the Massachusetts Broadband Initiative (MBI) - a quasi-private organization which is providing the "middle mile" fiber-optic link to Town Hall already, to provide bandwidth for resale to consumers, and manages grants from the state to build "last mile" networks
  - Contracting a local ISP (Internet Service Provider) to manage the network
 
 Some of these steps can be done in parallel;  most of them cannot be done until the town can prove they will be paid for.  A number of these steps require the town's MLP to issue formal Request for Proposals and collect bids to do the work (a few years back, the town voted to establish the necessary Municipal Light and Power entity that will function on behalf of the people).
