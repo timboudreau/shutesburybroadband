@@ -46,7 +46,7 @@ Broadband internet creates opportunities for people in Shutesbury that do not cu
 
 ### The Situation Today
 
-At the moment, a handful of households in Shutesbury have broadband internet via Verizon DSL, which is slow when compared with the options in nearby towns;  some households pay high rates for satellite-based internet, which is fast but suffers from high latency and outages during bad weather.  Some parts of town have cellular phone signals and can use that, usually with limited data plans, and also subject to weather-related outages.
+At the moment, a handful of households in Shutesbury have broadband internet via Verizon DSL, which is slow when compared with the options in nearby towns;  some households pay high rates for satellite-based internet, which is fast but suffers from high latency and outages during bad weather.  Some parts of town have cellular phone service and can use that, usually with limited data plans, and also subject to weather-related outages.
 
 Over the last 20 years, various companies have hinted at or even promised to deliver broadband internet to Shutesbury.  None of them have done so, and there is little reason to - Shutesbury has relatively few households and low population density.  Because it abuts the Quabbin Reservoir, Shutesbury is not on the way to any place with more potential customers.  So the return on investment for commercial internet access is not there.
 
