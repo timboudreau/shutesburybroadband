@@ -56,7 +56,7 @@ There is almost certain to be funding available from the state to defray the cos
 
 Our neighboring town, Leverett, is mid-way through installing such a network, and we have the ability to learn from their experience.
 
-Shutesbury is a member of the cooperative WiredWest, a non-profit coalition of "municipal lighting plants" of towns in Western Massachusetts.  A municipal lighting plant (MLP) is a legal entity belonging to the town which may legally provide telecommunications services such as telephone and internet.
+Shutesbury is a member of the cooperative WiredWest, a non-profit coalition of "municipal lighting plants" of towns in Western Massachusetts.  A municipal lighting plant (MLP) is a legal entity belonging to the town which is allowed by law to provide telecommunications services such as telephone and internet.
 
 
 ## Entities And Terminology
