@@ -84,9 +84,9 @@ Shutesbury is a member of the cooperative WiredWest, a non-profit coalition of "
 
  * **Backhaul Network** - The connection that connects a local network to the wider world of the internet - the same way a WIFI box connects computers to the network it is physically plugged in to 
 
- * [**Active Ethernet**](http://en.wikipedia.org/wiki/Fiber_to_the_x#Optical_distribution_networks) - another option for type of network, which utilizes separate connections to the backhaul for each household
+ * [**Active Ethernet**](http://en.wikipedia.org/wiki/Fiber_to_the_x#Optical_distribution_networks) - an option for type of network, which utilizes separate connections to the backhaul for each household
 
- * [**Gigabit Passive Optical Network (GPON)**](http://en.wikipedia.org/wiki/Passive_optical_network) - one of our options for type of network, which uses passive splitters to connect a smaller number of fibers to the backhaul network
+ * [**Gigabit Passive Optical Network (GPON)**](http://en.wikipedia.org/wiki/Passive_optical_network) - another of our options for type of network, which uses passive splitters to connect a smaller number of fibers to the backhaul network
 
  * **Latency** - the time it takes for data to reach a destination, independent of the speed of travel. Satellite internet suffers from high latency.  Think of it this way:  You are standing in a field a mile from your friend, who has a very powerful fire-hose aimed at you.  When you say so, your friend turns on the water.  Once the water arrives, it will be moving very fast - but you still will wait a while before it shows up, while the water is travelling through the air.  That delay is the *latency* - and is the same phenomenon seen with satellite internet - you click a link, and after some latency, the page seems to arrive all at once.
 
