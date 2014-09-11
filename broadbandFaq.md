@@ -7,7 +7,7 @@ This is a *draft* document.  See the town website for the official version.  All
 
 This document exists to answer questions about broadband in Shutesbury.  If something is missing, wrong or could be phrased better [file a bug](https://github.com/timboudreau/shutesburybroadband/issues) or follow the [instructions for making changes](https://github.com/timboudreau/shutesburybroadband).
 
-Telephone and cable companies have teased Shutesbury with the promise of broadband (high speed internet) access for nearly 20 years, but nobody has delivered - a few streets in town have wired internet via DSL, a slow, obsolete technology built on deteriorating electronics. We believe it is time to - intelligently - build for Shutesbury what the private market did not - and has no plans to - build.
+Telephone and cable companies have teased Shutesbury with the promise of broadband (high speed internet) access for nearly 20 years, but nobody has delivered - some streets in town have wired internet via DSL, a slow, obsolete technology built on deteriorating electronics. We believe it is time to - intelligently - build for Shutesbury what the private market did not - and has no plans to - build.
 
 As a result of Massachusetts Broadband Initiative's recent "middle mile" project, there is now a fiber optic connection at the town hall which has sufficient bandwidth capacity to supply the entire town with internet at speeds far faster than *anything* currently available.  Fiber optic equipment is upgradeable, so we are talking about a future-proof network.  At a fundamental level, it is based on the physics of light passing through a piece of glass, split into different frequencies carrying different people's data.  Future advances come from splitting light more finely; the physics of light passing through glass do not change.  So an investment in a fiber optic network is an investment that will not be obsolete in 10, 20 or even 30 years.
 
@@ -113,11 +113,32 @@ Some parts of the work can be done in parallel - for example, pole applications 
  - Coordinating work across 45 towns is far more complex than coordinating work in one
  - WiredWest has finite resources and there is no guarantee that Shutesbury's needs will not wind up behind other towns in the queue of networks to be built, so getting broadband may take longer
  - WiredWest has existed for several years, but has not yet built a network in *any* town, so it has no track-record
- - The funding mechanism is more complicated, since, for WiredWest to build a network the town likely must raise a bond, lend that money to WiredWest to be paid back in the future out of subscriber fees.  The proposed mechanism to do that legally is based on [Massachusetts General Laws Chapter 44, Section 8](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter44/Section8)
+ - The funding mechanism is more complicated, since, for WiredWest to build a network the town likely must raise a bond, and lend or transfer that money to WiredWest.
 
 The decision of whether to go with WiredWest or not is one the selectboard will make, based on input from the broadband committee, their own investigation of the available options and assessment of the liklihood of success.
 
 Much of the work to be done is identical whether or not the town opts to cast its lot with WiredWest - the same work needs to be done either way - so it is not necessary to answer this question immediately.
+
+
+### Funding Model
+The funding model for building the network is one of the things to be determined.  In broad strokes, what "funding model" means is
+
+ * How do funds from the town and grant moneys find their way to the legal entity building the network (a town can't just lend money to a third party because it feels like it;  one proposed mechanism to do that legally is based on [Massachusetts General Laws Chapter 44, Section 8](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter44/Section8))
+ * Where tax dollars are used, is it
+    * A loan, which will be paid back to the town out of subscriber fees over a period of years, or
+    * Simply the town paying for infrastructure to be built
+
+This dovetails with the WiredWest question, since the legal rules that govern how it works are likely to be different.
+
+A major question is whether the network should "pay for itself" - meaning 
+ * The town raises a bond and lends that money to the entity building the network, and that gets paid back out of subscriber fees, versus
+ * The town raises a bond and pays for the network to be built, period
+
+A funding model where the network pays for itself is likely to be more politically popular, and means that, in the long run, only the people who use the network are the ones who pay for it (in the form of higher subscriber fees).  However, in the case that very few people actually buy service, that is higher risk - the entity operating the network would need subscriber fees to cover both loan payments *and* maintenance costs.
+
+The broadband committee is leaning toward the "pays for itself" model, because that is likely to be less controversial.
+
+We plan to have an accountant run some actual numbers, and present some concrete projections of the impact of different funding models on loan repayment, subscriber rates and so forth on this page soon.
 
 
 Frequently Asked Questions
@@ -133,19 +154,19 @@ Any estimates are conjecture at this point, but the *best-case* scenario at the 
 Any number is speculative at this point, but we believe it will be in the $50/$75 month range for both basic internet *and* phone service.  For most people, that will be less than they are paying now.
 
 **Will My Taxes Go Up?**
-While we cannot at this time specify exact numbers, the expectation is that it will go up by less than $300 per household per year or $25/month, as a result of issuing a bond similar to the one Leverett did (it should be noted that Leverett's model simply paid for the network out of tax dollars, rather than having the town lend money to be paid back out of subscriber fees, as we are proposing for Shutesbury).
+While we cannot at this time specify exact numbers, the expectation is that it will go up by less than $300 per household per year or $25/month, as a result of issuing a bond of similar size to the one Leverett did.
 
 If all homes are connected (as opposed to "fiber to the curb") then property tax rates should be unaffected.  The value of your home, if you sell it, goes up.  But the value of your home *relative to the value of your neighbors' homes* does not change (theirs go up by the same percentage), and the difference between valuations is what drives changes in property tax amounts for individual properties.
 
 **Who Will Pay For Building The Network?**
 There are a variety of grants and sources of grants available - most notably, the $50,000,000 in the recent IT bond bill.  That money is currently *authorized* for MBI - meaning MBI will be issuing grants to individual towns' MLPs or entities such as WiredWest.  The money is not yet *appropriated* - meaning that MBI does not actually have it yet - it's still working its way through the system to them.
 
-Realistically, the town will very likely have to raise a bond to cover some of the work.  Ideally, that gets paid back out of subscriber fees over a long period - in other words, the system pays for itself, but not quickly.
+Realistically, the town will very likely have to raise a bond to cover some of the work.
 
 **Will The Town Vote On Whether Or Not To Build A Fiber Optic Network?**
 At some point we need to start doing the parts of this that cost money, which may require a "debt exclusion override" vote - essentially the town votes to exclude the debt from counting toward the limitations placed on it by [Proposition 2 1/2](http://en.wikipedia.org/wiki/Proposition_2%C2%BD).  At present, the earliest that is likely to happen is the April 2015 town meeting.
 
-The town must borrow the money to pay the upfront costs of building the network;  the goal is for that money to be repaid out of subscriber fees.
+The town must borrow the money to pay the upfront costs of building the network.
 
 **Can I keep my existing Verizon phone / DSL service?**
 Yes.  You are under no obligation to use the service.
