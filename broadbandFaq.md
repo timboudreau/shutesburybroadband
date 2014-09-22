@@ -162,6 +162,8 @@ While we cannot at this time specify exact numbers, the expectation is that it w
 
 If all homes are connected (as opposed to "fiber to the curb") then property tax bills should be unaffected.  The value of your home, if you sell it, goes up.  But the value of your home *relative to the value of your neighbors' homes* does not change. Therefore all property values go up by the same percentage. It's the difference between valuations that drives changes in property tax amounts for individual properties and the change would be uniformly equal.
 
+The thing to remember is that, if you're currently paying for satellite internet or DSL, plus telephone, your overall costs per-year are likely to go *down*.
+
 **Who Will Pay For Building The Network?**
 There are a variety of grants and sources of grants available - most notably, the $50,000,000 in the recent IT bond bill.  That money is currently authorized for MBI (Massachusetts Broadband Institute). This means that MBI will be issuing grants to individual towns or entities planning to bring broadband to towns such as WiredWest.  The money is not yet *appropriated* meaning that MBI does not actually have the funds yet, but it is on its way.  
 
