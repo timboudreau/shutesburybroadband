@@ -1,7 +1,7 @@
 Shutesbury Broadband FAQ
 ------------------------
 
-This is a *draft* document.  See the town website for the official version.  All statements herein should be construed as speculative.
+This is a *draft* document.  See the town website for the official version.  All statements herein should be construed as speculative.  These are the facts as we know them now, subject to change.
 
 ### Overview
 
@@ -28,10 +28,10 @@ Some of these steps can be done in parallel;  most of them cannot be done until 
 
 There may be grants available from the state which can help defray the costs, but it is unlikely that they will cover the entire cost of building the network. This means the town will likely need to raise a bond to do that work.  The costs of the work may be recovered through subscriber fees in the future but there are upfront costs for the labor and infrastructure.
 
-Part of what the broadband committee is doing is making sure we (and you!) are fully informed about our options in building the network, so that we build something that will work, last, and not cost any more than it has to.  Any plan we adopt will be prudent financially and will minimize costs.
+Part of what the Broadband Committee is doing is making sure we (and you!) are fully informed about our options in building the network, so that we build something that will work, last, and not cost any more than it has to.  Any plan we adopt will be prudent financially and will minimize costs.
 
 
-### Why Broadband
+### Why Broadband?
 
 There are [many documents](http://muninetworks.org/content/frequently-asked-questions#ownership) that do an excellent job of explaining the value to a community of broadband internet.
 
@@ -46,6 +46,7 @@ Overall, broadband internet will create many benefits and opportunities for peop
  - Makes quality-of-life enhancing services such as [Telehelp](http://www.ncbi.nlm.nih.gov/pubmed/7694919) available to citizens of Shutesbury
  - Reduces household costs by bundling phone and internet service together  
 
+To quote WiredWest's statistics, to download the entire Library of Congress it would take 82 years over dial-up;  2 years over wifi; or 48 seconds over a fiber-optic broadband connection, the type of network we are proposing to build.
 
 ### The Situation Today
 
@@ -71,7 +72,7 @@ Shutesbury is a member of the cooperative WiredWest, a non-profit coalition of "
  * [**Massachusetts Broadband Initiative (MBI)**](http://broadband.masstech.org/) - The quasi private organization which built the fiber network that runs to the center of town.  MBI is funded by state and federal grants.  Originally it was chartered to build the entire network to wire homes in Western Massachusetts.  After its funding was cut in half, it has focused on the "middle mile" - getting fiber to towns, so that they can build the "last mile" to residences.
     * MBI is administering the recent $50,000,000 grant from the state to build out "last-mile" networks to homes in Western MA
 
- * [**Axia**](http://www.axia.com/) - Axia is the company contracted by MBI to administer the "middle mile" network;  assuming we use MBI's network (which is currently the only option), the network we build would be reselling bandwidth bought in bulk from Axia.  Axia's business model depends on selling bandwidth to businesses;  our understanding is that currently commercial uptake has been lower than desired, which may affect rates.  Axia is not permitted to sell bandwidth delivered by the "middle mile" network directly to consumers;  a local ISP must act as a reseller.
+ * [**Axia**](http://www.axia.com/) - Axia is the company contracted by MBI to administer the "middle mile" network;  assuming we use MBI's network (which is currently the only option), the network we build would be reselling bandwidth bought in bulk from Axia.  Axia's business model depends on selling bandwidth to businesses.  Axia is not permitted to sell bandwidth delivered by the "middle mile" network directly to consumers;  a local ISP must act as a reseller.
 
  * [**Point of Presence (POP)**](http://en.wikipedia.org/wiki/Point_of_presence) - the place where fiber optic lines to households connect to the cable that runs out of town and connects to the wider internet
 
@@ -117,10 +118,10 @@ Some parts of the work can be done in parallel - for example, pole applications 
  - Coordinating work across 45 towns is far more complex and will take a lot longer than coordinating work in one
  - WiredWest has finite resources and there is no guarantee that Shutesbury's needs will not wind up behind other towns in the queue of networks to be built, so getting broadband may take longer
  - WiredWest has existed for several years, but has not yet built a network in *any* town, so it has no track-record
- - The funding mechanism is more complicated, since, for WiredWest to build a network the town likely must raise a bond, and lend or transfer that money to WiredWest.
+ - The funding mechanism is more complicated, since, for WiredWest to build a network each member town likely must raise a bond, and lend or transfer that money to WiredWest.
  - If the town itself does not maintain ownership of the network, the network could be sold to a third party, in the case that WiredWest declared bankruptcy.
 
-The decision of whether to go with WiredWest or to build a network will be made by our town Selectboard who will consider recommendations from the broadband committee.
+The decision of whether to go with WiredWest or to build a network will be made by our town Selectboard who will consider recommendations from the Broadband Committee.
 
 No decision has been made yet.  Much of the work to be done is identical whether or not the town opts to cast its lot with WiredWest - the same work needs to be done either way - so it is not necessary to answer this question immediately.
 
@@ -139,7 +140,7 @@ Any bond raised by the town could be used in one of two ways:
 
 A funding model where the network pays for itself is likely to be more politically popular, and means that, in the long run, only the people who use the network are the ones who pay for it (in the form of higher subscriber fees).  However, in the case that very few people actually buy service, that is higher risk - the entity operating the network would need subscriber fees to cover both loan payments *and* maintenance costs.
 
-The broadband committee is leaning toward the "pays for itself" model, because that is likely to be less controversial.
+The Broadband Committee is leaning toward the "pays for itself" model, because that is likely to be more fair.
 
 We plan to have an accountant run some actual numbers, and present some concrete projections of the impact of different funding models on loan repayment, subscriber rates and so forth on this page soon.
 
@@ -174,6 +175,12 @@ The town must borrow the money to pay the upfront costs of building the network.
 **Can I keep my existing Verizon phone / DSL service?**
 Yes.  You are under no obligation to use any service provided by the town.
 
+** Will this replace my television service?
+
+There are internet-based services to deliver television programming over the internet;  Sony is [launching such a service](http://www.tomshardware.com/news/sony-streaming-tv-playstation-consoles,27721.html) this fall, for example.
+
+At present, there is no plan to deliver an equivalent to cable TV as part of the network (becoming a cable TV provider comes with a lot of regulatory requirements).  Subscribers will have a choice of any service that delivers television content over it.
+
 **What Parts Of This Cost Money?**
 Building the network involves paying for:
 
@@ -195,7 +202,7 @@ The town itself will own the network if we go with a plan similar to Leverett's.
 Ownership is unclear at this point if we go with WiredWest. The town or WiredWest may end up owning the infrastructure. Management of the system might be performed by WiredWest or contracted to an ISP.
 
 **Why Connect Houses, Why Not Fiber To The Curb?** 
-Fiber to the curb decreases the upfront costs of the network by about 1/3, but means that the network will initially have no subscribers. Lenders see a network with no built-in subscribers as a worse investment, meaning a higher cost of borrowing.  It also means that each homeowner would need to pay $1000-$2000 to connect their home.  And it means that the taxes on the houses that do connect will go up, since it increases their relative value.
+Fiber to the curb decreases the upfront costs of the network by about 1/3, but means that the network will initially have no subscribers. Lenders see a network with no built-in subscribers as a worse investment, meaning a higher cost of borrowing.  It also means that each homeowner would need to pay $1000-$2000 to connect their home.  And if all homes in town were not connected, taxes on the houses that did connect would go up, since it increases their value relative to their neighbors.
 
 Fiber to every house means that the value of everyone's home increases across the board - that means no relative change in value (your house is worth more, but so is everybody else's), and so no tax increase simply because you got connected.
 
@@ -210,7 +217,7 @@ The utility companies own the telephone poles in town.  We need to get permissio
 Yes!  Apply on the [mailing list via the town website](http://www.shutesbury.org/broadband).
 
 **Are we doing GPON or Active Ethernet?**
-That is not decided at present, but the broadband committee has been leaning in the direction of recommending GPON.  The difference between the two is this:
+That is not decided at present, but the Broadband Committee has been leaning in the direction of recommending GPON.  The difference between the two is this:
 
  - With active ethernet, there is one fiber that runs from each home all the way to the "Point of Presence" (POP) (the connection that brings internet traffic to and from town) - everybody gets their own fiber
  - With GPON, the design looks like hubs and spokes - there are passive splitters, and the network fans out from various points
@@ -234,10 +241,11 @@ Please read [this article](http://muninetworks.org/content/wireless) for an expl
 All costs listed here which are not examples of Leverett's costs are estimates, which may be incorrect or subject to change, but are based on the best information we have at present:
 
  - Total cost per household for doing a similar project in Leverett:  $5000 per household
- - Cost of the network build in Leverett:  $2.6 million (Shutesbury is geographically bigger, so we should expect this to be higher for us)
+ - Cost of the network build in Leverett:  $3.6 million (Shutesbury is geographically bigger, so we should expect this to be higher for us)
  - Cost of running fiber to one telephone pole:  $300
  - Cost of the network design for Leverett (Shutesbury should be comparable): $40,000
  - Cost of an application to Verizon to add fiber to poles:  $10,000 per 200 poles (the money is applied to work done later)
+ - Ongoing rent of space on poles (there is an exemption for "municipal space" on poles, but court cases have decided this only applies to services that are *purely municipal* such as connecting a police station and fire department)
 
 **How can I keep informed?**
 
