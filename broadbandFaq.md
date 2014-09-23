@@ -180,7 +180,7 @@ Yes.  You are under no obligation to use any service provided by the town.
 **Will this replace my television service?**
 There are internet-based services to deliver television programming over the internet;  Sony is [launching such a service](http://www.tomshardware.com/news/sony-streaming-tv-playstation-consoles,27721.html) this fall, for example.
 
-At present, there is no plan to deliver an equivalent to cable TV as part of the network (becoming a cable TV provider comes with a lot of regulatory requirements).  Subscribers will have a choice of any service that delivers television content over it.
+At present, there is no plan to deliver an equivalent to cable TV as part of the network (becoming a cable TV provider comes with a lot of regulatory requirements).  Subscribers will have a choice of any service that delivers television content over the internet, including ones that work and feel just like regular televison when available.
 
 **What Parts Of This Cost Money?**
 Building the network involves paying for:
